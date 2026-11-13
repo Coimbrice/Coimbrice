@@ -5,7 +5,7 @@
   <tr><td><a href="https://github.com/Coimbrice/Coimbrice/blob/main/README.pt-BR.md">Português</a></td></tr>
 </table>
 
-Sou o Luís, desenvolvedor fullstack de **Manaus, AM**, morando atualmente em **Limeira, SP**.
+Sou desenvolvedor fullstack de **Manaus, AM**, morando atualmente em **Limeira, SP**.
 
 Sou bacharel em Sistemas de Informação pela UEA (Universidade do Estado do Amazonas). Meu TCC foi um monitor de exercícios fisioterapêuticos que usa visão computacional e um autoencoder LSTM para dizer, em tempo real, se o exercício está sendo feito do jeito certo. Depois ele virou um [artigo publicado no SBCUP 2024](https://doi.org/10.5753/sbcup.2024.2662).
 

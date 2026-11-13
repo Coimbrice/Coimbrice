@@ -5,7 +5,7 @@
   <tr><td><a href="https://github.com/Coimbrice/Coimbrice/blob/main/README.pt-BR.md">Português</a></td></tr>
 </table>
 
-I'm Luís, a fullstack developer from **Manaus, AM, Brazil**, currently living in **Limeira, SP**.
+I'm a fullstack developer from **Manaus, AM, Brazil**, currently living in **Limeira, SP**.
 
 I have a bachelor's degree in Information Systems from UEA (Universidade do Estado do Amazonas). My undergrad thesis was a physiotherapy exercise monitor that uses computer vision and an LSTM autoencoder to tell, in real time, whether an exercise is being done right. It was later [published at SBCUP 2024](https://doi.org/10.5753/sbcup.2024.2662).
 
