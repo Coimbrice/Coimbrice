@@ -1,4 +1,4 @@
-# Hi, I'm Coimbrice! <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Video%20game/3D/video_game_3d.png" height="32" alt="">
+# Hi, I'm Coimbrice! <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Computer%20disk/3D/computer_disk_3d.png" height="32" alt="">
 
 <table align="right">
   <tr><td><a href="https://github.com/Coimbrice/Coimbrice/blob/main/README.md">English</a></td></tr>
