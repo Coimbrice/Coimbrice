@@ -29,6 +29,10 @@ I have a bachelor's degree in Information Systems from UEA (Universidade do Esta
 - [**bolus-pra-bolos**](https://github.com/Coimbrice/bolus-pra-bolos): a TypeScript library for calculating insulin doses, based on *Think Like a Pancreas*. *TypeScript.*
 - [**OddOne**](https://github.com/Coimbrice/OddOne): a social deduction party game played in person with your phones. *JavaScript.*
 
+### Contributions
+
+- [**media-lyrics**](https://github.com/TraNzeM/media-lyrics), a lyrics plugin for the Noctalia shell: found and diagnosed a bug that left the panel stuck on "Loading lyrics..." after the host's CPU budget killed a callback ([issue](https://github.com/noctalia-dev/community-plugins/issues/1494)), and a sort bug that shuffled unsynced lyrics ([PR](https://github.com/TraNzeM/media-lyrics/pull/3)). Both fixes landed upstream, and the changelog credits me for the sort one. *Luau.*
+
 ### Top languages
 
 <p>

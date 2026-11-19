@@ -29,6 +29,10 @@ Sou bacharel em Sistemas de Informação pela UEA (Universidade do Estado do Ama
 - [**bolus-pra-bolos**](https://github.com/Coimbrice/bolus-pra-bolos): biblioteca em TypeScript para calcular doses de insulina, baseada no livro *Think Like a Pancreas*. *TypeScript.*
 - [**OddOne**](https://github.com/Coimbrice/OddOne): jogo presencial de dedução social para jogar em grupo pelo celular. *JavaScript.*
 
+### Contribuições
+
+- [**media-lyrics**](https://github.com/TraNzeM/media-lyrics), um plugin de letras para o shell Noctalia: encontrei e diagnostiquei um bug que deixava o painel preso em "Loading lyrics..." quando o limite de CPU do host matava um callback ([issue](https://github.com/noctalia-dev/community-plugins/issues/1494)), e um bug de ordenação que embaralhava letras sem sincronia ([PR](https://github.com/TraNzeM/media-lyrics/pull/3)). As duas correções entraram no plugin, e o changelog me dá crédito pela de ordenação. *Luau.*
+
 ### Linguagens mais usadas
 
 <p>
